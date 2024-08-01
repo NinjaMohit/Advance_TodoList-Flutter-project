@@ -1,4 +1,4 @@
-# Advance_TodoList-Flutter-project..
+#* Advance_TodoList-Flutter-project..
 <h1> Developed a ToDo list application using Flutter, integrating SQLite for local database storage</h1>
 
 <h2>✨ Key Features:</h2>
